@@ -3,6 +3,7 @@
     "title": "Flutter Browser",
     "date": "2020-08-06 20:00:00",
     "logo": "",
+    "platforms": ["mobile"],
     "excerpt": "Full-Featured Mobile Browser App created using Flutter and flutter_inappwebview.",
     "screenshots": ["https://via.placeholder.com/1080x1920", "https://via.placeholder.com/1080x1920", "https://via.placeholder.com/1080x1920"],
     "googlePlayStore": "https://play.google.com/store/apps/details?id=com.pichillilorenzo.flutter_browser",
