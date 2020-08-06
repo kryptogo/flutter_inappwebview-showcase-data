@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Flutter Browser",
+    "logo": "",
+    "excerpt": "Full-Featured Mobile Browser App created using Flutter and flutter_inappwebview.",
+    "screenshots": ["https://via.placeholder.com/1080x1920", "https://via.placeholder.com/1080x1920", "https://via.placeholder.com/1080x1920"]
+    "links": {
+      "googlePlayStore": "https://play.google.com/store/apps/details?id=com.pichillilorenzo.flutter_browser",
+      "appleAppStore": "",
+      "sourceCode": "https://github.com/pichillilorenzo/flutter_browser_app",
+      "website": "https://github.com/pichillilorenzo/flutter_browser_app"
+    },
+    "description": "A Full-Featured Mobile Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
+
+Features:
+- WebView Tab, with custom on long-press link/image preview, and how to move from one tab to another without losing the WebView state;
+- Browser App Bar with the current URL and all popup menu actions such as opening a new tab, a new incognito tab, saving the current URL to the favorite list, saving a page to offline usage, viewing the SSL Certificate used by the website, enable Desktop Mode, etc. (features similar to the Google Chrome App);
+- Developer console, where you can execute JavaScript code, see some network info, manage the browser storage such as cookies, window.localStorage , etc;
+- Settings page, where you can update the browser general settings and enable/disable all the features offered by the flutter_inappwebview for each WebView Tab, such as enabling/disabling JavaScript, caching, scrollbars, setting custom user-agent, etc., and all the Android and iOS-specific features;
+- Save and restore the current Browser state.
+
+Flutter plugin: https://github.com/pichillilorenzo/flutter_inappwebview
+
+Full Code Browser App: https://github.com/pichillilorenzo/flutter_browser_app"
+  }
+]
