@@ -2,10 +2,10 @@
   {
     "appName": "Flutter Browser",
     "date": "2020-08-06 20:00:00",
-    "logo": "",
+    "icon": "https://user-images.githubusercontent.com/5956938/89580742-1d527c00-d836-11ea-8e51-d97ddd51b911.png",
     "platforms": ["mobile"],
     "shortDescription": "Full-Featured Mobile Browser App created using Flutter and flutter_inappwebview.",
-    "screenshots": ["https://via.placeholder.com/1080x1920", "https://via.placeholder.com/1080x1920", "https://via.placeholder.com/1080x1920"],
+    "screenshots": ["https://user-images.githubusercontent.com/5956938/89580253-56d6b780-d835-11ea-978d-a7ad41c389fa.png", "https://user-images.githubusercontent.com/5956938/89580255-576f4e00-d835-11ea-9ec2-d5ebf3d44823.png", "https://user-images.githubusercontent.com/5956938/89580256-5807e480-d835-11ea-9fd1-efd27bf2b665.png", "https://user-images.githubusercontent.com/5956938/89580261-58a07b00-d835-11ea-92f4-94bd51651f22.png"],
     "googlePlayStore": "https://play.google.com/store/apps/details?id=com.pichillilorenzo.flutter_browser",
     "appleAppStore": "",
     "sourceCode": "https://github.com/pichillilorenzo/flutter_browser_app",
