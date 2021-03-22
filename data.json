@@ -12,5 +12,26 @@
     "website": "https://github.com/pichillilorenzo/flutter_browser_app",
     "longDescription": "A Full-Featured Mobile Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.\n\nFeatures:\n- WebView Tab, with custom on long-press link/image preview, and how to move from one tab to another without losing the WebView state;\n- Browser App Bar with the current URL and all popup menu actions such as opening a new tab, a new incognito tab, saving the current URL to the favorite list, saving a page to offline usage, viewing the SSL Certificate used by the website, enable Desktop Mode, etc. (features similar to the Google Chrome App);\n- Developer console, where you can execute JavaScript code, see some network info, manage the browser storage such as cookies, window.localStorage , etc;\n- Settings page, where you can update the browser general settings and enable/disable all the features offered by the flutter_inappwebview for each WebView Tab, such as enabling/disabling JavaScript, caching, scrollbars, setting custom user-agent, etc., and all the Android and iOS-specific features;\n- Save and restore the current Browser state.\n\nFlutter plugin: https://github.com/pichillilorenzo/flutter_inappwebview\n\nFull Code Browser App: https://github.com/pichillilorenzo/flutter_browser_app",
     "usedFor": "To make a Browser"
-  }
+  },
+  {
+	"appName": "Retro Browser: '90s nostalgic web browser",
+	"shortDescription": "'90s nostalgic web browser",
+	"longDescription": "Retro Browser is here! The best experience for navigating the World Wide Web is now available. Combining a '90s style browser inspired by the olds Netscape Navigator and Internet Explorer with the power of the modern web pages. Retro Browser includes beautiful designs and animations that will simulate an early internet experience which main purpose is to make you travel in time.",
+	"date": "2021-03-22T16:38:26.785Z",
+	"icon": "https://user-images.githubusercontent.com/24376974/112024927-ab981b80-8b02-11eb-813a-5875fd6daff7.jpg",
+	"platforms": [
+		"mobile"
+	],
+	"screenshots": [
+		"https://user-images.githubusercontent.com/24376974/112023913-ae464100-8b01-11eb-8fce-e8daeed45c9d.png",
+		"https://user-images.githubusercontent.com/24376974/112023919-aeded780-8b01-11eb-8651-76e10ee2271a.png",
+		"https://user-images.githubusercontent.com/24376974/112023921-af776e00-8b01-11eb-917b-f1e389f219fc.png",
+		"https://user-images.githubusercontent.com/24376974/112023925-b0100480-8b01-11eb-8509-f12b528c0f4b.png"
+	],
+	"googlePlayStore": "https://play.google.com/store/apps/details?id=com.gabxap.retrobrowser",
+	"appleAppStore": "https://apps.apple.com/us/app/retro-browser/id1554974118",
+	"sourceCode": "",
+	"website": "https://daretrobrowser.web.app/",
+	"usedFor": "To create a Browser"
+}
 ]
